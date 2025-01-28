@@ -9,6 +9,6 @@ Sou uma profissional com experiência no desenvolvimento de soluções para inte
 ## 🌐 Onde me encontrar:
 - [💼 **LinkedIn**](https://www.linkedin.com/in/maaottoni/)
 - ✉️ **Email:** [maaottoni@gmail.com](mailto:maaottoni@gmail.com)
-- 👩🏽‍💻 [Meus artigos sobre Engenharia de Daos & afins](https://dev.to/maaottoni)
+- 👩🏽‍💻 [Meus artigos sobre Engenharia de Dados & afins](https://dev.to/maaottoni)
 
 ✨ **Sempre buscando aprender e colaborar!** Fique à vontade para explorar meus repositórios e contribuir com ideias ou feedbacks. 🚀
